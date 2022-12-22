@@ -20,7 +20,7 @@
     "express-session": "^1.15.6",
     "express-sessions": "^1.0.6",
     "faker": "^4.1.0",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "kafka-node": "^4.1.1",
     "mocha": "^5.2.0",
     "mongodb": "^3.2.3",
